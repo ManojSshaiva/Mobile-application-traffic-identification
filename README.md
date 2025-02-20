@@ -1,2 +1,2 @@
 # Mobile-application-traffic-classification
-![CardiacDataSet (1)](https://github.com/user-attachments/assets/f91a2f2c-975b-464f-886f-04b3b9d4b19b)
+![miniPro_archi](https://github.com/user-attachments/assets/c53c9365-f071-423f-b197-c9913003c1cd)
